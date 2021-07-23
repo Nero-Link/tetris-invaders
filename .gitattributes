@@ -1,3 +1,0 @@
-* linguist-vendored
-*.aspx linguist-vendored=false
-*.csharp linguist-detectable=true  
